@@ -1,0 +1,21 @@
+.container {
+}
+
+.btn {
+  border: none;
+  background-color: #c1c1c1;
+  color: black;
+  padding: 6px;
+  text-align: center;
+  text-decorate: none;
+  display: inline-block;
+}
+
+.btn-primary {
+  background-color: #3338b6;
+  color: white;
+}
+
+.search-input {
+  padding: 4px;
+}
